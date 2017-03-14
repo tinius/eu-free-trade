@@ -1,0 +1,221 @@
+.ortho-story-title {
+	font-family: 'Merriweather', serif;
+	font-weight: normal;
+	font-size: 32px;
+	text-align: center;
+	margin: 32px auto;
+}
+
+.ortho-intro {
+	font-family: 'Lato', sans-serif;
+	text-align: justify;
+	font-size: 18px;
+	padding: 4px;
+	width: 80%;
+	min-width: 300px;
+	margin: auto;
+	padding-bottom: 32px;
+
+}
+
+.ortho-country {
+	stroke: white;
+	stroke-width: 1;
+	fill: #dedede;
+}
+
+.ortho-graticule {
+	stroke: #eee;
+	stroke-opacity: 0.8;
+	fill: none;
+}
+
+.export-circle {
+	fill: #005993;
+	fill-opacity: 0.6;
+	stroke: #005993;
+	stroke-opacity: 0.8;
+}
+
+.ortho-everything-container {
+	max-width: 1000px;
+	margin: auto;
+}
+
+#maps-container {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#maps-container:after {
+	display: block;
+	content: '';
+	clear: both;
+}
+
+.ortho-map {
+
+	flex-grow: 1;
+	width: 300px;
+	height: calc((100vw - 16px) * 1.67);
+	/*float: left;*/
+	font-family: 'Merriweather', serif;
+	margin: 6px 0;
+	/*margin-left: calc(50% - 150px)*/
+}
+
+.ortho-legend {
+	font-family: 'Lato', sans-serif;
+	font-size: 13px;
+}
+
+.ortho-legend.ortho-legend--strong {
+	font-weight: bold;
+}
+
+.empty-legend-circle {
+	stroke: #333;
+	fill: none;
+}
+
+.legend-circle.legend-circle--plus {
+	fill: #005993;
+	fill-opacity: 0.6;
+	stroke: #005993;
+	stroke-opacity: 0.8;
+}
+
+.legend-circle.legend-circle--plus {
+	fill: #005993;
+	fill-opacity: 0.6;
+	stroke: #005993;
+	stroke-opacity: 0.8;
+}
+
+.legend-circle.legend-circle--balanced {
+	fill: #ffbb00;
+	fill-opacity: 0.6;
+	stroke: #ffbb00;
+	stroke-opacity: 0.8;
+}
+
+.legend-circle.legend-circle--minus {
+	fill: #c33;
+	fill-opacity: 0.6;
+	stroke: #c33;
+	stroke-opacity: 0.8;
+}
+
+.export-circle.negative-circle {
+	fill: #c33;
+	stroke: #c33;
+}
+
+.export-circle.balanced-circle {
+	fill: #ffbb00;
+	stroke: #ffbb00;
+}
+
+.ortho-water {
+	fill: lightblue;
+}
+
+.ortho-title {
+	font-size: 16px;
+}
+
+.ortho-country-name {
+	font-size: 13px;
+	text-anchor: middle;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	fill: #005993;
+	stroke: white;
+	stroke-width: 2px;
+	stroke-opacity: 0.8;
+	paint-order: stroke;
+}
+
+.ortho-country-name.ortho-country-name--negative {
+	fill: #c33;
+}
+
+.ortho-country-name.ortho-country-name--balanced {
+	fill: #ffa900;
+}
+
+.ortho-is-hidden {
+	visibility: hidden;
+}
+
+.ortho-half-transparent {
+	fill-opacity: 1;
+}
+
+.voronoi {
+	fill: none;
+	stroke: none;
+	pointer-events: all;
+}
+
+.tooltip {
+	position: absolute;
+	background-color: rgba(255,255,255,0.9);
+	border: 1px solid #bdbdbd;
+	padding: 4px;
+	font-size: 13px;
+	font-family: 'Lato', sans-serif;
+	line-height: 18px;
+}
+
+.tooltip-off {
+	visibility: hidden;
+}
+
+.legend-div {
+	padding: 4px;
+	font-family: 'Lato', sans-serif;
+	font-size: 12px;
+	line-height: 15px;
+}
+
+.ortho-blue {
+
+	font-weight: bold;
+	color: #005993;
+}
+
+.ortho-red {
+	font-weight: bold;
+	color: #c33;
+}
+
+.ortho-yellow {
+	font-weight: bold;
+	color: #ffa900;
+}
+
+.legend-header {
+
+	font-weight: bold;
+	display: inline-block;
+	margin-bottom: 2px;
+}
+
+@media(min-width: 500px) {
+	.ortho-map {
+
+		height: 500px;
+		flex-grow: 0;
+
+		margin: 6px 6px;
+
+		/*width: 48%;
+		max-width: 300px;
+		font-family: 'Merriweather', serif;
+		margin: 4px 8px;*/
+	}
+
+}

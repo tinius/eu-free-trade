@@ -1,0 +1,1512 @@
+[
+  {
+    "code": "US",
+    "name": "Vereinigte Staaten",
+    "import": 249262971655,
+    "export": 371295324143,
+    "balance": 122032352488
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "import": 350639867505,
+    "export": 170357166484,
+    "balance": -180282701021
+  },
+  {
+    "code": "CH",
+    "name": "Schweiz",
+    "import": 102386451842,
+    "export": 150523627241,
+    "balance": 48137175399
+  },
+  {
+    "code": "TR",
+    "name": "Türkei",
+    "import": 61663008357,
+    "export": 78965563247,
+    "balance": 17302554890
+  },
+  {
+    "code": "RU",
+    "name": "Russland",
+    "import": 136405976564,
+    "export": 73737434903,
+    "balance": -62668541661
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "import": 59874039234,
+    "export": 56533230893,
+    "balance": -3340808341
+  },
+  {
+    "code": "NO",
+    "name": "Norwegen",
+    "import": 74128296425,
+    "export": 48740808628,
+    "balance": -25387487797
+  },
+  {
+    "code": "AE",
+    "name": "Vereinigte Arabische Emirate",
+    "import": 9301782540,
+    "export": 48443960703,
+    "balance": 39142178163
+  },
+  {
+    "code": "KR",
+    "name": "Südkorea",
+    "import": 42364812643,
+    "export": 47786506028,
+    "balance": 5421693385
+  },
+  {
+    "code": "SA",
+    "name": "Saudi-Arabien",
+    "import": 21376062399,
+    "export": 40179329456,
+    "balance": 18803267057
+  },
+  {
+    "code": "IN",
+    "name": "Indien",
+    "import": 39464259504,
+    "export": 38124503739,
+    "balance": -1339755765
+  },
+  {
+    "code": "HK",
+    "name": "Hongkong",
+    "import": 14251471173,
+    "export": 35324407398,
+    "balance": 21072936225
+  },
+  {
+    "code": "CA",
+    "name": "Kanada",
+    "import": 28313571686,
+    "export": 35143970207,
+    "balance": 6830398521
+  },
+  {
+    "code": "BR",
+    "name": "Brasilien",
+    "import": 31154267351,
+    "export": 34543749254,
+    "balance": 3389481903
+  },
+  {
+    "code": "MX",
+    "name": "Mexiko",
+    "import": 19490978979,
+    "export": 33612988041,
+    "balance": 14122009062
+  },
+  {
+    "code": "AU",
+    "name": "Australien",
+    "import": 9575267389,
+    "export": 31494481706,
+    "balance": 21919214317
+  },
+  {
+    "code": "SG",
+    "name": "Singapur",
+    "import": 18955526792,
+    "export": 29690568729,
+    "balance": 10735041937
+  },
+  {
+    "code": "ZA",
+    "name": "Südafrika",
+    "import": 19398913554,
+    "export": 25432140149,
+    "balance": 6033226595
+  },
+  {
+    "code": "DZ",
+    "name": "Algerien",
+    "import": 20907691035,
+    "export": 22241536446,
+    "balance": 1333845411
+  },
+  {
+    "code": "EG",
+    "name": "Ägypten",
+    "import": 7260530197,
+    "export": 20403464620,
+    "balance": 13142934423
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "import": 13384639035,
+    "export": 18935788484,
+    "balance": 5551149449
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan",
+    "import": 25566737349,
+    "export": 18398162207,
+    "balance": -7168575142
+  },
+  {
+    "code": "MA",
+    "name": "Marokko",
+    "import": 12457747609,
+    "export": 18142609021,
+    "balance": 5684861412
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "import": 12832999027,
+    "export": 14038510618,
+    "balance": 1205511591
+  },
+  {
+    "code": "QW",
+    "import": 16133503783,
+    "export": 13882240271,
+    "balance": -2251263512
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "import": 22755227927,
+    "export": 13369571774,
+    "balance": -9385656153
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "import": 19575413929,
+    "export": 13354574035,
+    "balance": -6220839894
+  },
+  {
+    "code": "XS",
+    "import": 7879857512,
+    "export": 11153596914,
+    "balance": 3273739402
+  },
+  {
+    "code": "TN",
+    "name": "Tunesien",
+    "import": 9504843806,
+    "export": 10752453319,
+    "balance": 1247609513
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "import": 18529643837,
+    "export": 10729471734,
+    "balance": -7800172103
+  },
+  {
+    "code": "QA",
+    "name": "Katar",
+    "import": 7542847688,
+    "export": 10517733988,
+    "balance": 2974886300
+  },
+  {
+    "code": "ID",
+    "name": "Indonesien",
+    "import": 15316856277,
+    "export": 9958296585,
+    "balance": -5358559692
+  },
+  {
+    "code": "AR",
+    "name": "Argentinien",
+    "import": 8134592209,
+    "export": 9094368623,
+    "balance": 959776414
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "import": 29985548408,
+    "export": 8428900416,
+    "balance": -21556647992
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "import": 8200139106,
+    "export": 8345329578,
+    "balance": 145190472
+  },
+  {
+    "code": "LB",
+    "name": "Libanon",
+    "import": 408068072,
+    "export": 6699333716,
+    "balance": 6291265644
+  },
+  {
+    "code": "CO",
+    "name": "Kolumbien",
+    "import": 6724276137,
+    "export": 6518837532,
+    "balance": -205438605
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "import": 1235088052,
+    "export": 6454297980,
+    "balance": 5219209928
+  },
+  {
+    "code": "KZ",
+    "name": "Kasachstan",
+    "import": 16247018103,
+    "export": 6194317311,
+    "balance": -10052700792
+  },
+  {
+    "code": "PH",
+    "name": "Philippinen",
+    "import": 6981478890,
+    "export": 6147166329,
+    "balance": -834312561
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "import": 4197865517,
+    "export": 5998613521,
+    "balance": 1800748004
+  },
+  {
+    "code": "BY",
+    "name": "Weißrussland",
+    "import": 3725386784,
+    "export": 5703925029,
+    "balance": 1978538245
+  },
+  {
+    "code": "BA",
+    "name": "Bosnien und Herzegowina",
+    "import": 3492957018,
+    "export": 5074747444,
+    "balance": 1581790426
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "import": 7981398640,
+    "export": 4855846283,
+    "balance": -3125552357
+  },
+  {
+    "code": "NZ",
+    "name": "Neuseeland",
+    "import": 3500841078,
+    "export": 4630911545,
+    "balance": 1130070467
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "import": 636966942,
+    "export": 4580928022,
+    "balance": 3943961080
+  },
+  {
+    "code": "GI",
+    "name": "Gibraltar",
+    "import": 322148067,
+    "export": 4539645359,
+    "balance": 4217497292
+  },
+  {
+    "code": "IQ",
+    "name": "Irak",
+    "import": 12108949962,
+    "export": 4533389131,
+    "balance": -7575560831
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "import": 6070501054,
+    "export": 4428099415,
+    "balance": -1642401639
+  },
+  {
+    "code": "LY",
+    "name": "Libyen",
+    "import": 7533221660,
+    "export": 4162588511,
+    "balance": -3370633149
+  },
+  {
+    "code": "MK",
+    "name": "Mazedonien",
+    "import": 3364987200,
+    "export": 4113812500,
+    "balance": 748825300
+  },
+  {
+    "code": "QR",
+    "import": 1890,
+    "export": 4019695709,
+    "balance": 4019693819
+  },
+  {
+    "code": "JO",
+    "name": "Jordanien",
+    "import": 385620394,
+    "export": 3984293850,
+    "balance": 3598673456
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "import": 72841989,
+    "export": 3851239597,
+    "balance": 3778397608
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "import": 5026690050,
+    "export": 3727616775,
+    "balance": -1299073275
+  },
+  {
+    "code": "AZ",
+    "name": "Aserbaidschan",
+    "import": 10696155006,
+    "export": 3450116275,
+    "balance": -7246038731
+  },
+  {
+    "code": "QV",
+    "import": 2715165425,
+    "export": 3175981550,
+    "balance": 460816125
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "import": 2644680977,
+    "export": 3041200850,
+    "balance": 396519873
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "import": 2241803535,
+    "export": 2996557083,
+    "balance": 754753548
+  },
+  {
+    "code": "CI",
+    "name": "Elfenbeinküste",
+    "import": 4255258172,
+    "export": 2672103133,
+    "balance": -1583155039
+  },
+  {
+    "code": "AL",
+    "name": "Albanien",
+    "import": 1164572197,
+    "export": 2519549192,
+    "balance": 1354976995
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "import": 547818638,
+    "export": 2517064979,
+    "balance": 1969246341
+  },
+  {
+    "code": "IS",
+    "name": "Island",
+    "import": 3261890336,
+    "export": 2513251229,
+    "balance": -748639107
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesch",
+    "import": 15147139705,
+    "export": 2452941706,
+    "balance": -12694197999
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "import": 420430697,
+    "export": 2372150694,
+    "balance": 1951719997
+  },
+  {
+    "code": "KE",
+    "name": "Kenia",
+    "import": 1333586817,
+    "export": 2207238358,
+    "balance": 873651541
+  },
+  {
+    "code": "CU",
+    "name": "Kuba",
+    "import": 545748534,
+    "export": 2172996606,
+    "balance": 1627248072
+  },
+  {
+    "code": "QZ",
+    "import": 577007881,
+    "export": 2169943971,
+    "balance": 1592936090
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "import": 2629515942,
+    "export": 2106204504,
+    "balance": -523311438
+  },
+  {
+    "code": "MD",
+    "name": "Moldawien",
+    "import": 1223205445,
+    "export": 2069908186,
+    "balance": 846702741
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "import": 2595322522,
+    "export": 2005364285,
+    "balance": -589958237
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "import": 1727581055,
+    "export": 1925031597,
+    "balance": 197450542
+  },
+  {
+    "code": "GE",
+    "name": "Georgien",
+    "import": 736309185,
+    "export": 1840316064,
+    "balance": 1104006879
+  },
+  {
+    "code": "ET",
+    "name": "Äthiopien",
+    "import": 710821820,
+    "export": 1810161284,
+    "balance": 1099339464
+  },
+  {
+    "code": "CG",
+    "name": "Republik Kongo",
+    "import": 1799680809,
+    "export": 1754957823,
+    "balance": -44722986
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "import": 786471378,
+    "export": 1744313804,
+    "balance": 957842426
+  },
+  {
+    "code": "DO",
+    "name": "Dominikanische Republik",
+    "import": 874370533,
+    "export": 1623968475,
+    "balance": 749597942
+  },
+  {
+    "code": "UZ",
+    "name": "Usbekistan",
+    "import": 245905217,
+    "export": 1590732707,
+    "balance": 1344827490
+  },
+  {
+    "code": "CM",
+    "name": "Kamerun",
+    "import": 1799590143,
+    "export": 1577509420,
+    "balance": -222080723
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "import": 988993053,
+    "export": 1354930564,
+    "balance": 365937511
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "import": 769268679,
+    "export": 1279399315,
+    "balance": 510130636
+  },
+  {
+    "code": "MH",
+    "name": "Marshallinseln",
+    "import": 333162845,
+    "export": 1194177787,
+    "balance": 861014942
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "import": 52984017,
+    "export": 1125475017,
+    "balance": 1072491000
+  },
+  {
+    "code": "CD",
+    "name": "Kongo",
+    "import": 693394130,
+    "export": 1122648414,
+    "balance": 429254284
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "import": 427484276,
+    "export": 1092886658,
+    "balance": 665402382
+  },
+  {
+    "code": "TZ",
+    "name": "Tansania, Vereinigte Republik",
+    "import": 696354846,
+    "export": 1055291974,
+    "balance": 358937128
+  },
+  {
+    "code": "GA",
+    "name": "Gabun",
+    "import": 1592822928,
+    "export": 1052547461,
+    "balance": -540275467
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "import": 45986647,
+    "export": 1012248054,
+    "balance": 966261407
+  },
+  {
+    "code": "MZ",
+    "name": "Mosambik",
+    "import": 1435203825,
+    "export": 981773952,
+    "balance": -453429873
+  },
+  {
+    "code": "NC",
+    "name": "Neukaledonien",
+    "import": 214416723,
+    "export": 974951842,
+    "balance": 760535119
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "import": 2250199148,
+    "export": 970578644,
+    "balance": -1279620504
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "import": 39916418,
+    "export": 962664339,
+    "balance": 922747921
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "import": 864272187,
+    "export": 958855478,
+    "balance": 94583291
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "import": 213458179,
+    "export": 949967231,
+    "balance": 736509052
+  },
+  {
+    "code": "VG",
+    "name": "Britische Jungferninseln",
+    "import": 298522205,
+    "export": 944869910,
+    "balance": 646347705
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "import": 904172430,
+    "export": 898660042,
+    "balance": -5512388
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "import": 143564961,
+    "export": 876783609,
+    "balance": 733218648
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "import": 647001834,
+    "export": 868827290,
+    "balance": 221825456
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "import": 424332063,
+    "export": 867052647,
+    "balance": 442720584
+  },
+  {
+    "code": "BN",
+    "name": "Brunei Darussalam",
+    "import": 39982646,
+    "export": 862683988,
+    "balance": 822701342
+  },
+  {
+    "code": "GQ",
+    "name": "Äquatorialguinea",
+    "import": 2244038180,
+    "export": 817502258,
+    "balance": -1426535922
+  },
+  {
+    "code": "XK",
+    "name": "Kosovo",
+    "import": 104162840,
+    "export": 763944648,
+    "balance": 659781808
+  },
+  {
+    "code": "MO",
+    "name": "Macao",
+    "import": 92247744,
+    "export": 755363366,
+    "balance": 663115622
+  },
+  {
+    "code": "YE",
+    "name": "Jemen",
+    "import": 19155362,
+    "export": 752977056,
+    "balance": 733821694
+  },
+  {
+    "code": "BO",
+    "name": "Bolivien",
+    "import": 650540754,
+    "export": 737328112,
+    "balance": 86787358
+  },
+  {
+    "code": "MR",
+    "name": "Mauretanien",
+    "import": 476283046,
+    "export": 735210532,
+    "balance": 258927486
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "import": 58818357,
+    "export": 666993119,
+    "balance": 608174762
+  },
+  {
+    "code": "XC",
+    "import": 12121603,
+    "export": 663796023,
+    "balance": 651674420
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad und Tobago",
+    "import": 1243181760,
+    "export": 657895743,
+    "balance": -585286017
+  },
+  {
+    "code": "KY",
+    "name": "Kaimaninseln",
+    "import": 350090529,
+    "export": 652201548,
+    "balance": 302111019
+  },
+  {
+    "code": "PF",
+    "name": "Französisch-Polynesien",
+    "import": 32185196,
+    "export": 630084547,
+    "balance": 597899351
+  },
+  {
+    "code": "AM",
+    "name": "Armenien",
+    "import": 305151783,
+    "export": 629209316,
+    "balance": 324057533
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "import": 1058115901,
+    "export": 608989076,
+    "balance": -449126825
+  },
+  {
+    "code": "MG",
+    "name": "Madagaskar",
+    "import": 940915702,
+    "export": 563163903,
+    "balance": -377751799
+  },
+  {
+    "code": "FO",
+    "name": "Färöer",
+    "import": 526231510,
+    "export": 559380269,
+    "balance": 33148759
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "import": 675176484,
+    "export": 547013774,
+    "balance": -128162710
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "import": 194644289,
+    "export": 545682396,
+    "balance": 351038107
+  },
+  {
+    "code": "XL",
+    "import": 5840105,
+    "export": 538120024,
+    "balance": 532279919
+  },
+  {
+    "code": "GL",
+    "name": "Grönland",
+    "import": 395271104,
+    "export": 507264206,
+    "balance": 111993102
+  },
+  {
+    "code": "SY",
+    "name": "Syrien, Arabische Republik",
+    "import": 86742260,
+    "export": 504202022,
+    "balance": 417459762
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "import": 1014374308,
+    "export": 497290500,
+    "balance": -517083808
+  },
+  {
+    "code": "BM",
+    "name": "Bermuda",
+    "import": 98082351,
+    "export": 491214373,
+    "balance": 393132022
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "import": 491745096,
+    "export": 489658869,
+    "balance": -2086227
+  },
+  {
+    "code": "KH",
+    "name": "Kambodscha",
+    "import": 4087677445,
+    "export": 463847366,
+    "balance": -3623830079
+  },
+  {
+    "code": "ZM",
+    "name": "Sambia",
+    "import": 432561661,
+    "export": 430520479,
+    "balance": -2041182
+  },
+  {
+    "code": "QY",
+    "import": 667943113,
+    "export": 428010119,
+    "balance": -239932994
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "import": 1038499864,
+    "export": 404000994,
+    "balance": -634498870
+  },
+  {
+    "code": "CV",
+    "name": "Kap Verde",
+    "import": 63621997,
+    "export": 389433810,
+    "balance": 325811813
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "import": 315029987,
+    "export": 382130823,
+    "balance": 67100836
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "import": 496956318,
+    "export": 381840306,
+    "balance": -115116012
+  },
+  {
+    "code": "QP",
+    "import": 22987953,
+    "export": 381686549,
+    "balance": 358698596
+  },
+  {
+    "code": "CW",
+    "name": "Curaçao",
+    "import": 55326617,
+    "export": 362018851,
+    "balance": 306692234
+  },
+  {
+    "code": "JM",
+    "name": "Jamaika",
+    "import": 222460018,
+    "export": 321900883,
+    "balance": 99440865
+  },
+  {
+    "code": "MN",
+    "name": "Mongolei",
+    "import": 83701938,
+    "export": 318802708,
+    "balance": 235100770
+  },
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "import": 30042051,
+    "export": 311916409,
+    "balance": 281874358
+  },
+  {
+    "code": "DJ",
+    "name": "Dschibuti",
+    "import": 14987609,
+    "export": 307671336,
+    "balance": 292683727
+  },
+  {
+    "code": "TD",
+    "name": "Tschad",
+    "import": 111540708,
+    "export": 302401028,
+    "balance": 190860320
+  },
+  {
+    "code": "SC",
+    "name": "Seychellen",
+    "import": 248572079,
+    "export": 302010431,
+    "balance": 53438352
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "import": 1503189945,
+    "export": 275283808,
+    "balance": -1227906137
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "import": 98778882,
+    "export": 271634917,
+    "balance": 172856035
+  },
+  {
+    "code": "KG",
+    "name": "Kirgisistan",
+    "import": 50521150,
+    "export": 269980433,
+    "balance": 219459283
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "import": 76055220,
+    "export": 245004466,
+    "balance": 168949246
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "import": 242187934,
+    "export": 238736929,
+    "balance": -3451005
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "import": 326496585,
+    "export": 225206346,
+    "balance": -101290239
+  },
+  {
+    "code": "ZW",
+    "name": "Simbabwe",
+    "import": 401909291,
+    "export": 220443748,
+    "balance": -181465543
+  },
+  {
+    "code": "AG",
+    "name": "Antigua und Barbuda",
+    "import": 124318994,
+    "export": 213743570,
+    "balance": 89424576
+  },
+  {
+    "code": "FK",
+    "name": "Falklandinseln",
+    "import": 141970075,
+    "export": 203758884,
+    "balance": 61788809
+  },
+  {
+    "code": "PS",
+    "name": "Staat Palästina",
+    "import": 16178656,
+    "export": 194801980,
+    "balance": 178623324
+  },
+  {
+    "code": "RW",
+    "name": "Ruanda",
+    "import": 64401079,
+    "export": 186797944,
+    "balance": 122396865
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "import": 33695243,
+    "export": 186261564,
+    "balance": 152566321
+  },
+  {
+    "code": "AW",
+    "name": "Aruba",
+    "import": 14770939,
+    "export": 177959204,
+    "balance": 163188265
+  },
+  {
+    "code": "FJ",
+    "name": "Fidschi",
+    "import": 86461915,
+    "export": 176816498,
+    "balance": 90354583
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "import": 38772762,
+    "export": 171660234,
+    "balance": 132887472
+  },
+  {
+    "code": "TJ",
+    "name": "Tadschikistan",
+    "import": 58353959,
+    "export": 165526876,
+    "balance": 107172917
+  },
+  {
+    "code": "PG",
+    "name": "Papua-Neuguinea",
+    "import": 746815220,
+    "export": 165178537,
+    "balance": -581636683
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "import": 17244213,
+    "export": 153534516,
+    "balance": 136290303
+  },
+  {
+    "code": "MV",
+    "name": "Malediven",
+    "import": 97152728,
+    "export": 148065697,
+    "balance": 50912969
+  },
+  {
+    "code": "SX",
+    "name": "Sint Maarten",
+    "import": 18864575,
+    "export": 127382914,
+    "balance": 108518339
+  },
+  {
+    "code": "LA",
+    "name": "Laos",
+    "import": 238728303,
+    "export": 122974630,
+    "balance": -115753673
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "import": 327965849,
+    "export": 118778504,
+    "balance": -209187345
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "import": 2041165,
+    "export": 117097148,
+    "balance": 115055983
+  },
+  {
+    "code": "CF",
+    "name": "Zentralafrikanische Republik",
+    "import": 12114168,
+    "export": 111711291,
+    "balance": 99597123
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "import": 38999021,
+    "export": 108300762,
+    "balance": 69301741
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "import": 226210703,
+    "export": 106550497,
+    "balance": -119660206
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "import": 152208901,
+    "export": 104776478,
+    "balance": -47432423
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "import": 8669893,
+    "export": 97278277,
+    "balance": 88608384
+  },
+  {
+    "code": "BQ",
+    "name": "Bonaire",
+    "import": 8933869,
+    "export": 93643736,
+    "balance": 84709867
+  },
+  {
+    "code": "ST",
+    "name": "São Tomé und Príncipe",
+    "import": 8514338,
+    "export": 65214231,
+    "balance": 56699893
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "import": 50748417,
+    "export": 64585830,
+    "balance": 13837413
+  },
+  {
+    "code": "SS",
+    "name": "Südsudan",
+    "import": 248005,
+    "export": 64235528,
+    "balance": 63987523
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "import": 41865146,
+    "export": 63086556,
+    "balance": 21221410
+  },
+  {
+    "code": "VC",
+    "name": "St. Vincent und die Grenadinen",
+    "import": 10087724,
+    "export": 59171487,
+    "balance": 49083763
+  },
+  {
+    "code": "KM",
+    "name": "Komoren",
+    "import": 11054371,
+    "export": 44674180,
+    "balance": 33619809
+  },
+  {
+    "code": "LC",
+    "name": "St. Lucia",
+    "import": 9966789,
+    "export": 43431571,
+    "balance": 33464782
+  },
+  {
+    "code": "SH",
+    "name": "St. Helena",
+    "import": 1395403,
+    "export": 43315557,
+    "balance": 41920154
+  },
+  {
+    "code": "KN",
+    "name": "St. Kitts und Nevis",
+    "import": 25147924,
+    "export": 41817124,
+    "balance": 16669200
+  },
+  {
+    "code": "GU",
+    "name": "Guam",
+    "import": 784395,
+    "export": 40091795,
+    "balance": 39307400
+  },
+  {
+    "code": "VI",
+    "name": "Amerikanische Jungferninseln",
+    "import": 7945545,
+    "export": 37623015,
+    "balance": 29677470
+  },
+  {
+    "code": "VA",
+    "name": "Vatikanstadt",
+    "import": 1600927,
+    "export": 36288580,
+    "balance": 34687653
+  },
+  {
+    "code": "SZ",
+    "name": "Swasiland",
+    "import": 138628552,
+    "export": 34702443,
+    "balance": -103926109
+  },
+  {
+    "code": "PM",
+    "name": "Saint-Pierre und Miquelon",
+    "import": 811174,
+    "export": 31236106,
+    "balance": 30424932
+  },
+  {
+    "code": "TL",
+    "name": "Osttimor",
+    "import": 5987147,
+    "export": 30381751,
+    "balance": 24394604
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "import": 3679833,
+    "export": 22605029,
+    "balance": 18925196
+  },
+  {
+    "code": "TF",
+    "name": "Französische Süd- und Antarktisgebiete",
+    "import": 5984976,
+    "export": 22504347,
+    "balance": 16519371
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "import": 5292997,
+    "export": 21603650,
+    "balance": 16310653
+  },
+  {
+    "code": "KP",
+    "name": "Nordkorea",
+    "import": 11083112,
+    "export": 18965665,
+    "balance": 7882553
+  },
+  {
+    "code": "TC",
+    "name": "Turks- und Caicosinseln",
+    "import": 569393,
+    "export": 18221584,
+    "balance": 17652191
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "import": 13310078,
+    "export": 13965600,
+    "balance": 655522
+  },
+  {
+    "code": "WF",
+    "name": "Wallis und Futuna",
+    "import": 192743,
+    "export": 13457304,
+    "balance": 13264561
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "import": 254486161,
+    "export": 12088673,
+    "balance": -242397488
+  },
+  {
+    "code": "BL",
+    "name": "Saint-Barthélemy",
+    "import": 2395247,
+    "export": 11074187,
+    "balance": 8678940
+  },
+  {
+    "code": "AI",
+    "name": "Anguilla",
+    "import": 116948,
+    "export": 9082757,
+    "balance": 8965809
+  },
+  {
+    "code": "UM",
+    "name": "United States Minor Outlying Islands",
+    "import": 1640730,
+    "export": 9077221,
+    "balance": 7436491
+  },
+  {
+    "code": "MP",
+    "name": "Nördliche Marianen",
+    "import": 116487,
+    "export": 7005227,
+    "balance": 6888740
+  },
+  {
+    "code": "SB",
+    "name": "Salomonen",
+    "import": 68388888,
+    "export": 7002478,
+    "balance": -61386410
+  },
+  {
+    "code": "CK",
+    "name": "Cookinseln",
+    "import": 3904632,
+    "export": 6857521,
+    "balance": 2952889
+  },
+  {
+    "code": "AQ",
+    "name": "Antarktika",
+    "import": 5296561,
+    "export": 6854439,
+    "balance": 1557878
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "import": 387823,
+    "export": 4378453,
+    "balance": 3990630
+  },
+  {
+    "code": "MS",
+    "name": "Montserrat",
+    "import": 701359,
+    "export": 4080490,
+    "balance": 3379131
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "import": 145465,
+    "export": 3144880,
+    "balance": 2999415
+  },
+  {
+    "code": "AS",
+    "name": "Amerikanisch-Samoa",
+    "import": 1023884,
+    "export": 3091997,
+    "balance": 2068113
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "import": 2290710,
+    "export": 2905208,
+    "balance": 614498
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "import": 69267,
+    "export": 2664913,
+    "balance": 2595646
+  },
+  {
+    "code": "TK",
+    "name": "Tokelau",
+    "import": 649963,
+    "export": 2292226,
+    "balance": 1642263
+  },
+  {
+    "code": "FM",
+    "name": "Mikronesien",
+    "import": 545279,
+    "export": 1072761,
+    "balance": 527482
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "import": 626181,
+    "export": 729595,
+    "balance": 103414
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "import": 511519,
+    "export": 522700,
+    "balance": 11181
+  },
+  {
+    "code": "IO",
+    "name": "Britisches Territorium im Indischen Ozean",
+    "import": 346631,
+    "export": 411667,
+    "balance": 65036
+  },
+  {
+    "code": "BV",
+    "name": "Bouvetinsel",
+    "import": 121310,
+    "export": 367967,
+    "balance": 246657
+  },
+  {
+    "code": "EH",
+    "name": "Westsahara",
+    "import": 2534,
+    "export": 352656,
+    "balance": 350122
+  },
+  {
+    "code": "GS",
+    "name": "Südgeorgien und die Südlichen Sandwichinseln",
+    "import": 264287,
+    "export": 187744,
+    "balance": -76543
+  },
+  {
+    "code": "CX",
+    "name": "Weihnachtsinsel",
+    "import": 426350,
+    "export": 181960,
+    "balance": -244390
+  },
+  {
+    "code": "PN",
+    "name": "Pitcairninseln",
+    "import": 374341,
+    "export": 179729,
+    "balance": -194612
+  },
+  {
+    "code": "CC",
+    "name": "Kokosinseln",
+    "import": 361701,
+    "export": 155069,
+    "balance": -206632
+  },
+  {
+    "code": "NF",
+    "name": "Norfolkinsel",
+    "import": 309376,
+    "export": 142808,
+    "balance": -166568
+  },
+  {
+    "code": "NU",
+    "name": "Niue",
+    "import": 256324,
+    "export": 136413,
+    "balance": -119911
+  },
+  {
+    "code": "HM",
+    "name": "Heard und McDonaldinseln",
+    "import": 11529,
+    "export": 19394,
+    "balance": 7865
+  }
+]

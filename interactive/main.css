@@ -1,0 +1,121 @@
+.ortho-country {
+	stroke: white;
+	stroke-width: 1;
+	fill: #dedede;
+}
+
+.ortho-graticule {
+	stroke: #eee;
+	stroke-opacity: 0.8;
+	fill: none;
+}
+
+.export-circle {
+	fill: #005993;
+	fill-opacity: 0.6;
+	stroke: #005993;
+	stroke-opacity: 0.8;
+}
+
+.ortho-highlight {
+
+	fill-opacity: 0.8;
+	stroke-opacity: 1;
+}
+
+.ortho-background {
+	fill-opacity: 0.2;
+	stroke-opacity: 0.4;
+}
+
+.ortho-legend {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 13px;
+}
+
+.ortho-legend.ortho-legend--strong {
+	font-weight: bold;
+}
+
+.legend-circle {
+	stroke: #333;
+	fill: none;
+}
+
+.legend-circle-plus {
+	fill: #005993;
+	fill-opacity: 0.6;
+	stroke: #005993;
+	stroke-opacity: 0.8;
+}
+
+.legend-circle-minus {
+	fill: #c33;
+	fill-opacity: 0.6;
+	stroke: #c33;
+	stroke-opacity: 0.8;
+}
+
+.export-circle.negative-circle {
+	fill: #c33;
+	stroke: #c33;
+}
+
+.ortho-map {
+	width: 300px;
+	font-family: 'Merriweather', serif;
+	margin: 8px 0;
+}
+
+.ortho-water {
+	fill: lightblue;
+}
+
+.ortho-title {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.ortho-country-name {
+	font-size: 13px;
+	text-anchor: middle;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: bold;
+	fill: #005993;
+	stroke: white;
+	stroke-width: 2px;
+	stroke-opacity: 0.8;
+	paint-order: stroke;
+}
+
+.ortho-country-name.ortho-country-name--negative {
+	fill: #c33;
+}
+
+.ortho-is-hidden {
+	visibility: hidden;
+}
+
+.ortho-half-transparent {
+	fill-opacity: 0.6;
+}
+
+.voronoi {
+	fill: none;
+	stroke: none;
+	pointer-events: all;
+}
+
+.tooltip {
+	position: absolute;
+	background-color: rgba(255,255,255,0.9);
+	border: 1px solid #bdbdbd;
+	padding: 4px;
+	font-size: 13px;
+	font-family: 'Roboto Condensed', sans-serif;
+	line-height: 18px;
+}
+
+.tooltip-off {
+	visibility: hidden;
+}
