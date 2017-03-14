@@ -161,6 +161,8 @@
 }
 
 .tooltip {
+
+	display: none;
 	position: absolute;
 	background-color: rgba(255,255,255,0.9);
 	border: 1px solid #bdbdbd;
@@ -205,6 +207,11 @@
 }
 
 @media(min-width: 500px) {
+
+	.tooltip {
+		display: block;
+	}
+
 	.ortho-map {
 
 		height: 500px;
